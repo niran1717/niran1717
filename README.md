@@ -16,7 +16,6 @@ I’m actively seeking opportunities where I can bring together ML intuition, cl
 - AWS  
 - PyTorch
 
-**Favorite Repo:**  
-[LLM_Framework_Autonomous_Vehicles](https://github.com/niran1717/LLM_Framework_Autonomous_Vehicles.git)
+**Favorite Repo:** [LLM_Framework_Autonomous_Vehicles](https://github.com/niran1717/LLM_Framework_Autonomous_Vehicles.git)
 
 [LinkedIn](https://www.linkedin.com/in/niran17/)
