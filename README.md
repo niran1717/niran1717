@@ -1,5 +1,7 @@
-Hi, I'm Niranjan Paramasivan 👋
-☁️🤖 Aspiring AI Engineer & Cloud Solutions Builder
+## Hi, I'm Niranjan Paramasivan 👋
+
+### 🤖 Aspiring AI Engineer | ☁ Cloud Solutions Builder
+
 
 I’m an Autonomy Engineering graduate student at Purdue University with a clear vision:
 to build intelligent systems that scale.
